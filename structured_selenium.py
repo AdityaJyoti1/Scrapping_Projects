@@ -69,8 +69,8 @@ table2=pd.DataFrame(data2)
 # In[18]:
 
 
-table1.to_csv(r'C:\Users\ashwani\Documents\Docs\Teaching\ash\table1.csv')
-table2.to_csv(r'C:\Users\ashwani\Documents\Docs\Teaching\ash\table2.csv')
+table1.to_csv(r'C:\Users\aditya\Documents\Docs\Teaching\ash\table1.csv')
+table2.to_csv(r'C:\Users\aditya\Documents\Docs\Teaching\ash\table2.csv')
 
 
 # In[ ]:
